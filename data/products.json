@@ -1,0 +1,17 @@
+[
+  { "sku": "IPH15-128-BLK", "name": "Apple iPhone 15 128Gb черный", "myPrice": 389990, "minPrice": 370000, "maxPrice": 420000, "step": 10,
+    "competitors": [
+      { "seller": "TechnoMarket", "price": 384990, "inStock": true },
+      { "seller": "GadgetKZ", "price": 379990, "inStock": false },
+      { "seller": "AlmatyPhone", "price": 386500, "inStock": true } ] },
+  { "sku": "SAM-A55-256", "name": "Samsung Galaxy A55 256Gb", "myPrice": 189000, "minPrice": 180000, "maxPrice": 210000, "step": 100,
+    "competitors": [ { "seller": "MobiStore", "price": 175000, "inStock": true } ] },
+  { "sku": "XIA-RN13-128", "name": "Xiaomi Redmi Note 13 128Gb", "myPrice": 89990, "minPrice": 80000, "maxPrice": 99990, "step": 50,
+    "competitors": [ { "seller": "Shop1", "price": 85000, "inStock": false } ] },
+  { "sku": "AIRPODS-PRO2", "name": "Apple AirPods Pro 2", "myPrice": 119990, "minPrice": 100000, "maxPrice": 125000, "step": 1,
+    "competitors": [ { "seller": "EarShop", "price": 150000, "inStock": true } ] },
+  { "sku": "DYSON-V15", "name": "Dyson V15 Detect", "myPrice": 359000, "minPrice": 330000, "maxPrice": 380000, "step": 0.5,
+    "competitors": [ { "seller": "HomeTech", "price": 349999.9, "inStock": true } ] },
+  { "sku": "JBL-FLIP6", "name": "JBL Flip 6", "myPrice": 54990, "minPrice": 45000, "maxPrice": 60000, "step": 10,
+    "competitors": [] }
+]

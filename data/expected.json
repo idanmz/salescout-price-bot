@@ -1,0 +1,8 @@
+[
+  { "sku": "IPH15-128-BLK", "oldPrice": 389990, "newPrice": 384980, "reason": "UNDERCUT" },
+  { "sku": "SAM-A55-256", "oldPrice": 189000, "newPrice": 180000, "reason": "AT_MIN" },
+  { "sku": "XIA-RN13-128", "oldPrice": 89990, "newPrice": 99990, "reason": "NO_COMPETITORS" },
+  { "sku": "AIRPODS-PRO2", "oldPrice": 119990, "newPrice": 125000, "reason": "AT_MAX" },
+  { "sku": "DYSON-V15", "oldPrice": 359000, "newPrice": 349999, "reason": "UNDERCUT" },
+  { "sku": "JBL-FLIP6", "oldPrice": 54990, "newPrice": 60000, "reason": "NO_COMPETITORS" }
+]
